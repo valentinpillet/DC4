@@ -1,3 +1,3 @@
 # DC4
-### design communication IV
+### Design Communication IV
 Valentin Pillet 
